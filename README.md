@@ -27,7 +27,7 @@
     <img src="images/currencies.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Crypto Tracker</h3>
+  <h1 align="center"><a href="https://crypto-tracker001.netlify.app" target="_blank">Crypto Tracker</a></h1>
 
   <!-- <p align="center">
     An awesome README template to jumpstart your projects!
