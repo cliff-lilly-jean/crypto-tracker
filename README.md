@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cliff-lilly-jean/crypto-tracker">
-    <img src="images/currencies.png" alt="Logo" width="80" height="80">
+    <img src="images/currencies.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Crypto Tracker</h3>
@@ -128,10 +128,6 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
