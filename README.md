@@ -78,7 +78,7 @@
 
 This app is a way to track your favorite crypto currencies.
 
-[![Crypto Tracker][product-screenshot]]
+![Crypto Tracker][product-screenshot]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
