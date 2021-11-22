@@ -76,9 +76,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Crypto Tracker][product-screenshot]](https://example.com)
-
 This app is a way to track your favorite crypto currencies.
+
+[![Crypto Tracker][product-screenshot]](https://example.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
