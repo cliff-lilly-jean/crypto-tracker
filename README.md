@@ -78,7 +78,7 @@
 
 This app is a way to track your favorite crypto currencies.
 
-[![Crypto Tracker][product-screenshot]](https://example.com)
+[![Crypto Tracker][product-screenshot]]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -116,6 +116,10 @@ _Below is an example of how you can instruct your audience on installing and set
 2. Install NPM packages
    ```sh
    npm install
+   ```
+3. Run the project
+   ```sh
+   npm start
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
